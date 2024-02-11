@@ -11,6 +11,7 @@ Unittest classes:
     TestHBNBCommand_destroy
     TestHBNBCommand_update
 """
+
 import os
 import sys
 import unittest
@@ -1568,4 +1569,3 @@ class TestHBNBCommand_count(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

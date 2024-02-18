@@ -1,1 +1,1 @@
-naking the front-end of the AirBnB clone with a static webpage using html and css
+creating a static webpage using css and html for the AirBnB_clone

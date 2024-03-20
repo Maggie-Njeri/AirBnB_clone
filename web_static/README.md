@@ -1,1 +1,1 @@
-creating a static webpage using css and html for the AirBnB_clone
+images for the AirBnB clone
